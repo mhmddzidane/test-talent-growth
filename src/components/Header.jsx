@@ -15,9 +15,9 @@ const Header = () => {
       </div>
 
       <div className="text-center">
-        <h1 className="text-3xl font-semibold mt-10">MUHAMMAD ZIDANE</h1>
+        <h1 className="text-3xl font-semibold mt-10">ABOUT.</h1>
       </div>
-      <div className=" mx-10 px-8 py-5 bg-black mt-20 rounded-md text-white grid grid-cols-3">
+      <div className=" mx-10 px-8 py-5 bg-black mt-10 rounded-md text-white grid grid-cols-3">
         <div className="flex flex-col col-span-2">
           <h2 className="text-2xl font-semibold ">
             Hello, my name is Zidane. I am an Undergradute Informatics

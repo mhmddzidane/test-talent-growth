@@ -1,12 +1,14 @@
 import React from "react";
+import Contact from "./components/Contact";
+import Footer from "./components/Footer";
 import Header from "./components/Header";
 
 const App = () => {
   return (
     <div>
       <Header />
-
-      <h1 className="text-red-500">App</h1>
+      <Contact />
+      <Footer />
     </div>
   );
 };
