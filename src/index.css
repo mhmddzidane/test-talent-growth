@@ -12,6 +12,10 @@ code {
     monospace;
 }
 
+.custom-img {
+  background-image: url("https://www.groovypost.com/wp-content/uploads/2021/04/email-laptop-featured.jpg");
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

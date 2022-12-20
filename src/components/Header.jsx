@@ -3,7 +3,7 @@ import React from "react";
 const Header = () => {
   return (
     <div>
-      <div className="bg-black px-7 py-5 text-white justify-center flex w-full ">
+      <div className="bg-black fixed top-0 px-7 py-5 text-white justify-center flex w-full ">
         <div className=" flex gap-5">
           <a href="#about">
             <p>ABOUT</p>
@@ -14,7 +14,7 @@ const Header = () => {
         </div>
       </div>
 
-      <div className="text-center">
+      <div className="text-center mt-20">
         <h1 className="text-3xl font-semibold mt-10">ABOUT.</h1>
       </div>
       <div className=" mx-10 px-8 py-5 bg-black mt-10 rounded-md text-white grid grid-cols-3">
